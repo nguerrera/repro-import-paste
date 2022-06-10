@@ -1,0 +1,9 @@
+{
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "[typescript]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
